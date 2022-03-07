@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'kkk, t đùa xíu thôi:))',
     messDesc: 'Chúc bạn Trang có một ngày 8/3 vui vẻ, nhận được nhiều quà, ngày càng thêm xinh đẹp và học giỏi nhé<33',
     btnAccept: 'Okiiiii cảm ơn nhiều <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+ } 
+
